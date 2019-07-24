@@ -2,7 +2,7 @@
         "postgres":{
         "user":"postgres",
         "password":"Viser12345",
-        "host":"localhost",
+        "host":"local hello host",
         "port":3030,
         "database":"api"
     }
